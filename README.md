@@ -1,6 +1,7 @@
 # E-POS Online App
 Version: 1.0.2  
 Author: [E-POS Systems LTD.](https://epos.uz)  
+Documentation: [E-POS Online App Docs](https://docs.epos.uz/epos-online-app/)
 
 ## Changelog
 ### `v1.0.2` [2022-08-12]
